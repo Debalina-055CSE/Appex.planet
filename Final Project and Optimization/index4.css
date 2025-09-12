@@ -2,8 +2,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #131921;
-  color: white;
+  background: #426ca3;
+  color: rgb(61, 108, 146);
   padding: 10px 20px;
   font-size: 14px;
 }
@@ -14,7 +14,7 @@
 }
 .logo h2 {
   margin: 0;
-  color: #ff9900;
+  color: #bd760c;
   font-size: 22px;
 }
 .location {
@@ -30,7 +30,7 @@
   margin: 0 20px;
 }
 .search-dropdown {
-  background: #f3f3f3;
+  background: #d67676;
   border: none;
   padding: 8px;
   border-radius: 4px 0 0 4px;
@@ -71,7 +71,7 @@
   top: -8px;
   right: -12px;
   background: red;
-  color: white;
+  color: rgb(134, 196, 115);
   font-size: 12px;
   padding: 2px 6px;
   border-radius: 50%;
@@ -86,7 +86,7 @@
   gap: 20px;
   margin: 0;
   padding: 0;
-  color: white;
+  color: rgb(163, 84, 194);
   font-size: 14px;
 }
 .sub-navbar li {
@@ -119,7 +119,7 @@
   padding: 20px;
 }
 .product-card {
-  background: white;
+  background: rgb(235, 106, 106);
   padding: 15px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);

@@ -58,7 +58,7 @@ const products = [
       name: 'Baggy jeans',
        price: 7,
         desc: 'Baggy denim jeans',
-         image: 'boysjeans.avif',
+         image: '',
           badge: '', 
           rating: 4.4
          },
